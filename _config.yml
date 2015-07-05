@@ -29,11 +29,11 @@ favicon: /favicon.png
 #Services:
 
 #Avatar url
-avatar: ""
+avatar: ''
 #Share Links
-share: true
+share: false
 #Disqus
-disqus_shortname: ''
+#disqus_shortname: 'hexo'
 #Tag Cloud
 tagcloud: true
 
