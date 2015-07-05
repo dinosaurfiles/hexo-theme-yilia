@@ -22,6 +22,12 @@ excerpt_link: more
 fancybox: true
 mathjax: true
 
+# Open in Animation
+animate: true
+
+# Open Link in New Window
+open_in_new: false
+
 # Miscellaneous
 google_analytics: ''
 favicon: /favicon.png
