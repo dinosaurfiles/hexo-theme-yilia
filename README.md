@@ -33,6 +33,7 @@ Modifying the yilia theme `hexoblog/themes/yilia/_config.yml`
 menu:
   Home: /
   Archives: /archives
+  #There's an issue on the tag
   # Tags: /tags/tags
 
 # SubNav
